@@ -1,0 +1,83 @@
+{
+  "name": "Invinee",
+  "description": "Invinee est une plateforme de livre d’or numérique et de galerie photo dédiée aux mariages. Elle permet aux invités de partager facilement leurs photos et messages sans application, via un QR code.",
+  "website": "https://invinee.com",
+  "category": "Mariage, Livre d'or numérique, Galerie photo",
+  "target_audience": ["Futurs mariés", "Wedding planners", "Photographes de mariage"],
+  "features": [
+    "QR code unique sans application",
+    "Photos & vidéos illimitées (Premium)",
+    "Diaporama en temps réel pendant l'événement",
+    "Galerie privée avec mot de passe",
+    "Messages des invités",
+    "Téléchargement de toutes les photos en un clic",
+    "Invités illimités",
+    "Compatible tous appareils (iOS, Android, ordinateurs)",
+    "Données hébergées en France",
+    "Galerie personnalisable (prénoms, date, message de bienvenue)"
+  ],
+  "pricing": [
+    {
+      "name": "Standard",
+      "price": "39€ paiement unique",
+      "includes": [
+        "Galerie privée",
+        "QR code personnalisé",
+        "Messages invités",
+        "1 an de stockage",
+        "Jusqu’à 250 médias"
+      ]
+    },
+    {
+      "name": "Premium",
+      "price": "49€ paiement unique",
+      "includes": [
+        "Galerie privée",
+        "QR code personnalisé",
+        "Messages invités",
+        "Stockage à vie",
+        "Photos & vidéos illimitées",
+        "Diaporama en temps réel",
+        "Téléchargement complet"
+      ]
+    }
+  ],
+  "how_it_works": [
+    "Créez votre galerie personnalisée",
+    "Générez un QR code unique",
+    "Vos invités ajoutent photos et messages",
+    "Téléchargez vos souvenirs après l’événement"
+  ],
+  "security": {
+    "hosting": "Serveurs localisés en France",
+    "encryption": true,
+    "password_protection": true,
+    "deletion_available": true
+  },
+  "testimonials": [
+    {
+      "quote": "Nos invités ont adoré pouvoir partager leurs photos si facilement, sans télécharger d'application.",
+      "author": "Marie & Thomas (Mariage à Paris)"
+    },
+    {
+      "quote": "La galerie en temps réel a été le point fort de notre soirée !",
+      "author": "Sophie & Alexandra (Mariées à Nice)"
+    },
+    {
+      "quote": "Même les grands-parents ont pu participer et voir toutes les photos.",
+      "author": "Jean & Isabelle (Mariage à Tarbes)"
+    }
+  ],
+  "stats": {
+    "client_satisfaction": "100%",
+    "events": "250+ événements réussis",
+    "photos_shared": "82 000+ photos partagées",
+    "app_required": "0 application requise"
+  },
+  "availability": {
+    "international": true,
+    "real_time_display": true,
+    "hd_photos": true,
+    "support": "Via chat ou email"
+  }
+}
