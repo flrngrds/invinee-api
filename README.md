@@ -78,7 +78,6 @@ Ce dépôt contient un fichier `info.json` exposant les métadonnées publiques 
 ## 🔗 Ressources
 
 - 🌐 Site web : [https://invinee.com](https://invinee.com)
-- 📧 Contact : hello@invinee.com
 - 📄 Documentation JSON : [`info.json`](./info.json)
 
 ---
